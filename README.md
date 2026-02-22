@@ -48,6 +48,35 @@ Otimização de Rede: Ajustes de latência (Ping) e Turbo TCP/IP.
 
 Módulo Extras: Funções avançadas como God Mode e compactação de sistema.
 
+# 🎮 Sistema de Gerenciamento Elite v16.8
+> Desenvolvido por Jonas Cinza (jonasnetoou)
+
+## 📸 Screenshots do Sistema
+
+### 🖥️ Interface Principal
+O menu principal oferece acesso rápido a todos os módulos de gerenciamento, manutenção e otimização.
+![Menu Principal](assets/1.png)
+
+---
+
+### 📦 Módulos em Detalhes
+
+| 🎮 Biblioteca Steam | ☁️ Central de Saves |
+|:---:|:---:|
+| ![Biblioteca](assets/2.png) | ![Saves](assets/3.png) |
+| Gerenciamento e injeção de megapacks. | Backup e restauração (Local/Nuvem). |
+
+| 🛠️ Manutenção do PC | 📡 Otimização de Rede |
+|:---:|:---:|
+| ![Manutenção](assets/4.png) | ![Rede](assets/5.png) |
+| Drivers, Modo Performance e Kit Médico. | Ping Watcher e ajustes de latência. |
+
+---
+
+### 🌀 Funções Extras (Power User)
+Ferramentas avançadas para controle total do sistema operacional e da plataforma Steam.
+![Extras](assets/6.png)
+
 Entre outras funções não listadas nas capturas de tela.
 
 Gostaria que eu analisasse alguma função específica do código para sugerir melhorias de performance ou tratamento de erros?
