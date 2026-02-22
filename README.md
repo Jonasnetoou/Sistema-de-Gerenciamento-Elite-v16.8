@@ -25,7 +25,7 @@ O script é um menu CLI (Interface de Linha de Comando) avançado que utiliza No
 
 **Protocolo de Limpeza:** Função para remover arquivos "fantasmas" da Steam e limpar instaladores inúteis de pastas comuns.
 
-🖥️ Design System e Interface
+**🖥️ Design System e Interface**
 
 **Destaque:** O menu força uma resolução de 160 colunas por 55 linhas para garantir um aspecto "Ultra-Wide" no CMD/PowerShell.
 
