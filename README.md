@@ -35,7 +35,19 @@ Automação: Uso extensivo de child_process para executar comandos PowerShell e 
 
 Integração: O sistema é capaz de detectar automaticamente jogos instalados através do escaneamento da pasta userdata da Steam.
 
-🚀 Próximos Passos
-Como você vai iniciar o curso Jovem Programador no dia 23 de fevereiro, este projeto é uma excelente base de portfólio.
+🖼️ Galeria do Sistema
+Menu Principal: Visão geral de todos os módulos (Biblioteca, Manutenção, Rede e Extras).
+
+Biblioteca Steam: Interface de injeção para o Mega Pack de 26.845 jogos.
+
+Central de Saves: Painel de controle para backups locais e em nuvem (Google Drive).
+
+Manutenção do PC: Ferramentas de otimização de FPS, Drivers e Kit Médico.
+
+Otimização de Rede: Ajustes de latência (Ping) e Turbo TCP/IP.
+
+Módulo Extras: Funções avançadas como God Mode e compactação de sistema.
+
+Entre outras funções não listadas nas capturas de tela.
 
 Gostaria que eu analisasse alguma função específica do código para sugerir melhorias de performance ou tratamento de erros?
