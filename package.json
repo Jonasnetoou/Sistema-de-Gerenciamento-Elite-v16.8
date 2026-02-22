@@ -1,0 +1,10 @@
+{
+  "name": "jonasnetoou-manager",
+  "version": "16.8.0",
+  "main": "menu.js",
+  "bin": "menu.js",
+  "pkg": {
+    "assets": ["jogos.json", "settings.json"],
+    "targets": ["node18-win-x64"]
+  }
+}

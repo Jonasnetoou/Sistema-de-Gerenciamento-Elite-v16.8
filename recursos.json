@@ -1,0 +1,22 @@
+{
+  "RT_ICON": {
+    "1": "IMPORTAR_SAVES/icone.ico"
+  },
+  "RT_VERSION": {
+    "1": {
+      "FixedFileInfo": {
+        "FileVersion": "16.8.0.0",
+        "ProductVersion": "16.8.0.0"
+      },
+      "StringFileInfo": {
+        "CompanyName": "Jonasnetoou",
+        "FileDescription": "Sistema de Gerenciamento Elite",
+        "FileVersion": "16.8.0.0",
+        "InternalName": "JonasManager",
+        "LegalCopyright": "Jonas Cinza",
+        "OriginalFilename": "Jonasnetoou Manager.exe",
+        "ProductName": "Jonasnetoou Manager"
+      }
+    }
+  }
+}
